@@ -1,4 +1,4 @@
-# Perseus
+# Perseus (Moved to https://github.com/mattermost/perseus)
 
 ### What is Perseus
 
